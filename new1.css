@@ -1,0 +1,71 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: underline;
+    font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color:lightgrey;
+    color: black;
+
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color:#4CAF50;
+    color:white;
+}
+
+ #h1Home
+{
+
+            font-family: "Dancing Script", cursive;
+            font-weight: 700;
+            font-size: 60px;
+            color: red;
+            margin-top: 0;
+            margin-bottom: 15px;
+            
+ }           
+     
+#h2Home 
+{
+      font-family: "Cantarell", sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      color: #363B3A;
+      padding-top: 10px;
+      margin-top: 0;
+      margin-bottom: 13px;
+      border-top: 3px solid #363B3A;
+      display: inline-block;
+      
+      }
+div {
+    background-color: lightgrey;
+    border-radius: 15px;
+    width: 600px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+
+img {
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 5px;
+    margin-right: 60px;
+    margin-left: 30px;
+}
+ul
+{
+    font-family: "Cantarell", sans-serif;
+}
